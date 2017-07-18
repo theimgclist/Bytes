@@ -11,3 +11,10 @@ https://dbader.org/blog/python-decorators
 https://dev.to/vaidehijoshi/demystifying-depth-first-search  
 http://www.primaryobjects.com/2017/03/28/preparing-for-a-technical-interview-algorithms-data-structures-and-computer-science/  
 https://hackernoon.com/a-new-kind-of-social-network-emotional-intelligence-e45dcddb1bdb -> Emotional Intelligence article
+https://developers.google.com/edu/python/ --> googles tutorials to get started with python, with some data and exercises  
+http://www.microsoftvirtualacademy.com/training-courses/introduction-to-programming-with-python -> Microsoft's python tutorial  
+https://pythonprogramming.net/ -> sendax's tutorials  
+https://opensource.com/article/17/5/python-machine-learning-introduction  
+https://www.datacamp.com/home -> has some interactive python tutorials with a dataset problem  
+https://pandas.pydata.org/pandas-docs/stable/tutorials.html  
+
