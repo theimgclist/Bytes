@@ -17,4 +17,7 @@ https://pythonprogramming.net/ -> sendax's tutorials
 https://opensource.com/article/17/5/python-machine-learning-introduction  
 https://www.datacamp.com/home -> has some interactive python tutorials with a dataset problem  
 https://pandas.pydata.org/pandas-docs/stable/tutorials.html  
+https://www.dataquest.io/blog/kaggle-tutorial/ ->informative  
+https://research.googleblog.com/2016/01/teach-yourself-deep-learning-with.html  
+
 
