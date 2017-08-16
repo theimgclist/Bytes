@@ -19,5 +19,8 @@ https://www.datacamp.com/home -> has some interactive python tutorials with a da
 https://pandas.pydata.org/pandas-docs/stable/tutorials.html  
 https://www.dataquest.io/blog/kaggle-tutorial/ ->informative  
 https://research.googleblog.com/2016/01/teach-yourself-deep-learning-with.html  
+https://www.dataquest.io/blog/kaggle-tutorial/ --> very good walkthrough  
+https://elitedatascience.com/data-science-resources  
+
 
 
