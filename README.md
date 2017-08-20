@@ -9,10 +9,11 @@ https://www.nvidia.com/en-us/deep-learning-ai/education/
 https://opensource.com/article/17/5/python-machine-learning-introduction  
 https://www.datacamp.com/home -> has some interactive python tutorials with a dataset problem  
 https://pandas.pydata.org/pandas-docs/stable/tutorials.html  
-https://www.dataquest.io/blog/kaggle-tutorial/ ->informative  
 https://research.googleblog.com/2016/01/teach-yourself-deep-learning-with.html  
 https://www.dataquest.io/blog/kaggle-tutorial/ --> very good walkthrough  
 https://elitedatascience.com/data-science-resources  
+http://www.storytellingwithdata.com/  -> blog maintained by the author of the book Storytelling with Data  
+http://berkeleyearth.org/  
 
 ## Google  
 https://opensource.google.com/projects/explore/featured -> Google's open source projects  
