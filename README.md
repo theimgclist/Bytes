@@ -14,6 +14,8 @@ https://www.dataquest.io/blog/kaggle-tutorial/ --> very good walkthrough
 https://elitedatascience.com/data-science-resources  
 http://www.storytellingwithdata.com/  -> blog maintained by the author of the book Storytelling with Data  
 http://berkeleyearth.org/  
+http://www.dataschool.io/launch-your-data-science-career-with-python/  
+http://www.arxiv-sanity.com/  -> Research papers
 
 ## Google  
 https://opensource.google.com/projects/explore/featured -> Google's open source projects  
