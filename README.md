@@ -17,6 +17,7 @@ http://berkeleyearth.org/
 http://www.dataschool.io/launch-your-data-science-career-with-python/  
 http://www.arxiv-sanity.com/  -> Research papers
 
+
 ## Google  
 https://opensource.google.com/projects/explore/featured -> Google's open source projects  
 
@@ -32,7 +33,23 @@ https://www.ft.com/content/32c31874-610b-11e7-8814-0ac7eb84e5f1?mhq5j=e2 -> Info
 ## Algorithms  
 https://dev.to/vaidehijoshi/demystifying-depth-first-search  
 http://www.primaryobjects.com/2017/03/28/preparing-for-a-technical-interview-algorithms-data-structures-and-computer-science/  
+http://e-maxx-eng.appspot.com/  
+http://norvig.com/spell-correct.html  
+ 
 
+## Resources
+https://www.sololearn.com/Courses/ --> easy to follow tutorials of C++ and other languages.  
+
+## Kaggle
+https://github.com/agconti/kaggle-titanic -> has decent explanation and links to useful resources  
+http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html  
+
+## Math
+http://patrickjmt.com/ -> for algebra, calculus
+
+## MOOCs
+https://www.blaenkdenum.com/notes/machine-learning/ -> Summary and notes of Abu Mostafa's Machine Learning course
+ 
 
  
  
