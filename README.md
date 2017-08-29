@@ -16,6 +16,9 @@ http://www.storytellingwithdata.com/  -> blog maintained by the author of the bo
 http://berkeleyearth.org/  
 http://www.dataschool.io/launch-your-data-science-career-with-python/  
 http://www.arxiv-sanity.com/  -> Research papers
+https://spandan-madan.github.io/DeepLearningProject/ -> must read  
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/ -> word embeddings explained well  
+http://technocalifornia.blogspot.co.uk/2014/08/introduction-to-recommender-systems-4.html  ->Recommender Systems
 
 
 ## Google  
