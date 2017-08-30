@@ -19,6 +19,7 @@ http://www.arxiv-sanity.com/  -> Research papers
 https://spandan-madan.github.io/DeepLearningProject/ -> must read  
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/ -> word embeddings explained well  
 http://technocalifornia.blogspot.co.uk/2014/08/introduction-to-recommender-systems-4.html  ->Recommender Systems
+https://engineering.linkedin.com/data  
 
 
 ## Google  
@@ -46,6 +47,8 @@ https://www.sololearn.com/Courses/ --> easy to follow tutorials of C++ and other
 ## Kaggle
 https://github.com/agconti/kaggle-titanic -> has decent explanation and links to useful resources  
 http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html  
+https://www.kaggle.com/pliptor/divide-and-conquer-0-82297 ->gives 82% accuracy
+https://www.kaggle.com/startupsci/titanic-data-science-solutions ->titanic problem solution with good description  
 
 ## Math
 http://patrickjmt.com/ -> for algebra, calculus
